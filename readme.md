@@ -8,7 +8,7 @@
 - Javascript (Basic) Certificate [Certificate](https://www.hackerrank.com/certificates/aa382a4f614a)
 
 ### HackerRank Badges
-!badges image](https://github.com/09try/certificates/blob/master/badges.PNG)
+![badges image](https://github.com/09try/certificates/blob/master/badges.PNG)
 
 ![certificate image](https://github.com/09try/certificates/blob/master/responsive_web_design.PNG)
 ![certificate image](https://github.com/09try/certificates/blob/master/javascript_algorithms_and_data_structures.PNG)
