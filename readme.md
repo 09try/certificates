@@ -3,8 +3,8 @@
 - Responsive Web Design [Certificate](https://www.freecodecamp.org/certification/09try/responsive-web-design)
 - JavaScript Algorithms and Data Structures [Certificate](https://www.freecodecamp.org/certification/09try/javascript-algorithms-and-data-structures)
 - APIs and Microservices [Certificate](https://www.freecodecamp.org/certification/09try/apis-and-microservices)
+
 #### Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/0994try)
 ![badges image](https://github.com/09try/certificates/blob/master/leetcode_badges.PNG)
 
 #### HackerRank
